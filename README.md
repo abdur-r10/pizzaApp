@@ -1,5 +1,5 @@
 # pizzaApp
-a pizza website using the MERN Stack (Mongodb, Express.js, ReactJS and Node.js)
+A pizza website using the MERN Stack (Mongodb, Express.js, ReactJS and Node.js)
 
 Some features of the website are
 user creating account,
