@@ -1,7 +1,7 @@
 # pizzaApp
 a pizza website using the MERN Stack (Mongodb, Express.js, ReactJS and Node.js)
 
-some features of the website are:
+Some features of the website are
 user creating account,
 user logging in (using JSON Web Token),
 storing token in httpOnly cookie,
